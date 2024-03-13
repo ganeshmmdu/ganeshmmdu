@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshmmdu&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshmmdu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ganeshmmdu" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshmmdu?logo=twitter&style=for-the-badge" alt="ganeshmmdu" /></a> </p>
-
 ## 🤓About Me    
   
  
@@ -24,7 +22,6 @@
 <a href="https://twitter.com/ganeshmmdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganeshmmdu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-" height="30" width="40" /></a>
 <a href="https://instagram.com/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="-" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/-" target="blank"><img align="center" src="#" alt="-" height="30" width="40" /></a>
 </p>
 
 ## 💻My Technical Skills
@@ -49,4 +46,8 @@
   </div>
 <br/>
 <br/>
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhiii112&theme=xcode&bg_color=FBEAEB&color=2F3C7E&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/nidhiii112/github-readme-activity-graph" width="700px"  /></div>
 <br/>
