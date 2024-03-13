@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshmmdu&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshmmdu" /> </p>
 
+<br><br/><br><br/><br><br/><br><br/><br><br/><br><br/>
+
 ## 🤓About Me    
   
  
@@ -42,12 +44,10 @@
   
   <br/> 
   <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshmmdu&theme=radical" alt="github_readme_streak"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshmmdu&theme=dark&hide_border=true&background=000000&fire=2980b9&ring=2980b9&stroke=2980b9&currStreakLabel=2980b9&sideNums=2980b9&sideLabels=2980b9" alt="GitHub Streak Stats"></p>
   </div>
 <br/>
 <br/>
 <br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhiii112&theme=xcode&bg_color=FBEAEB&color=2F3C7E&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/nidhiii112/github-readme-activity-graph" width="700px"  /></div>
-<br/>
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=ganeshmmdu&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
